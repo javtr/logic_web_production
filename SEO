@@ -3,3 +3,6 @@
   RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -d
   RewriteRule ^ - [L]
   RewriteRule ^ /index.html [L]
+
+Redirect 301 /app/es/indicators.html https://logicindicators.com
+Redirect 301 /app/en/indicators.html https://logicindicators.com/buy
