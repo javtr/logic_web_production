@@ -1,11 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a8700cb.css",
-    "main.js": "/static/js/main.ad0c5932.js",
+    "main.css": "/static/css/main.bffd0476.css",
+    "main.js": "/static/js/main.76d73200.js",
     "static/js/787.0c6b9861.chunk.js": "/static/js/787.0c6b9861.chunk.js",
+    "static/media/secure.mp4": "/static/media/secure.b01ad155e171172863b7.mp4",
+    "static/media/secure_en.mp4": "/static/media/secure_en.56e0d3f7f24223104f09.mp4",
     "static/media/Installation.mp4": "/static/media/Installation.a721af07e641b68e1651.mp4",
+    "static/media/normal_en.mp4": "/static/media/normal_en.8db99c728300c1e228f6.mp4",
+    "static/media/normal.mp4": "/static/media/normal.ecdec506287fd1a0ca24.mp4",
+    "static/media/no_dll_cod.mp4": "/static/media/no_dll_cod.a0a4419693213a750e64.mp4",
+    "static/media/no_dll_cod_en.mp4": "/static/media/no_dll_cod_en.8bdb95973d49306e16c1.mp4",
+    "static/media/no_dll.mp4": "/static/media/no_dll.601223d07df3f3702451.mp4",
+    "static/media/no_dll_en.mp4": "/static/media/no_dll_en.e5687570853ea1fc5950.mp4",
+    "static/media/art_06_full.jpg": "/static/media/art_06_full.0e357c61ac4275fac64f.jpg",
     "static/media/header_video.mp4": "/static/media/header_video.372cbb5c10c1893119d0.mp4",
     "static/media/of_01.png": "/static/media/of_01.2a89f6dc88431c4701ea.png",
+    "static/media/art5_anom.webp": "/static/media/art5_anom.15d1ba949e8a401dfd93.webp",
     "static/media/test_03.png": "/static/media/test_03.bf5aad0588e0f2c33b48.png",
     "static/media/test_04.png": "/static/media/test_04.0e748636608b950b71c7.png",
     "static/media/micro_01.jpg": "/static/media/micro_01.505ccfb40bb29750d085.jpg",
@@ -25,6 +35,8 @@
     "static/media/pr_03.gif": "/static/media/pr_03.0901cdb66716296e8f88.gif",
     "static/media/futuros_01.jpg": "/static/media/futuros_01.18a9086777b1fcad5ac0.jpg",
     "static/media/ninja_03.jpg": "/static/media/ninja_03.32645b8c4070b9511a94.jpg",
+    "static/media/uninstall_en.mp4": "/static/media/uninstall_en.8a994b06c4e66f12dcbf.mp4",
+    "static/media/uninstall.mp4": "/static/media/uninstall.17007a5b30e4da7e51b8.mp4",
     "static/media/futuros_02.jpg": "/static/media/futuros_02.9997581f88d4bc8bb9cb.jpg",
     "static/media/ninja_01.jpg": "/static/media/ninja_01.49421c1d66676245424c.jpg",
     "static/media/ninja_04.jpg": "/static/media/ninja_04.aec8e113e5f45d0d2aad.jpg",
@@ -42,6 +54,7 @@
     "static/media/pr_06.png": "/static/media/pr_06.8ddfd6415d25c3cb0408.png",
     "static/media/adv01.png": "/static/media/adv01.cfd3f4f9a98d3752c109.png",
     "static/media/of_ind_01.jpg": "/static/media/of_ind_01.cf1f628d09cd660b45a9.jpg",
+    "static/media/art_06.jpg": "/static/media/art_06.0acd3e58f4bd0a6ed1eb.jpg",
     "static/media/of_ind_02.jpg": "/static/media/of_ind_02.0257cb5e8569986dca8c.jpg",
     "static/media/an_03.jpg": "/static/media/an_03.3a38a6250ff216cf3c13.jpg",
     "static/media/of_ind_03.jpg": "/static/media/of_ind_03.afe9ae30db556920ea0b.jpg",
@@ -57,6 +70,7 @@
     "static/media/an_05.png": "/static/media/an_05.8943bfc32eee72ae4817.png",
     "static/media/of_ind_03.gif": "/static/media/of_ind_03.3229dfba092d14b52d00.gif",
     "static/media/an_06.png": "/static/media/an_06.6669a796914b31fcb73e.png",
+    "static/media/art_05_init.jpg": "/static/media/art_05_init.2c8e5b7dbc8d0f5948f8.jpg",
     "static/media/an_04.gif": "/static/media/an_04.4c7e5f4708a6a87ac61d.gif",
     "static/media/an_07.gif": "/static/media/an_07.1e00388c444194d6a499.gif",
     "static/media/licence.jpg": "/static/media/licence.c393d69180492ef2e0b4.jpg",
@@ -66,12 +80,12 @@
     "static/media/logo_foot.png": "/static/media/logo_foot.79d5670897400aaf6904.png",
     "static/media/logo_nav.png": "/static/media/logo_nav.f1920d483aff83f85536.png",
     "index.html": "/index.html",
-    "main.6a8700cb.css.map": "/static/css/main.6a8700cb.css.map",
-    "main.ad0c5932.js.map": "/static/js/main.ad0c5932.js.map",
+    "main.bffd0476.css.map": "/static/css/main.bffd0476.css.map",
+    "main.76d73200.js.map": "/static/js/main.76d73200.js.map",
     "787.0c6b9861.chunk.js.map": "/static/js/787.0c6b9861.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a8700cb.css",
-    "static/js/main.ad0c5932.js"
+    "static/css/main.bffd0476.css",
+    "static/js/main.76d73200.js"
   ]
 }
