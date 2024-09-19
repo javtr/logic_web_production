@@ -1,17 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.bffd0476.css",
-    "main.js": "/static/js/main.76d73200.js",
+    "main.css": "/static/css/main.56edbec2.css",
+    "main.js": "/static/js/main.c45141ef.js",
     "static/js/787.0c6b9861.chunk.js": "/static/js/787.0c6b9861.chunk.js",
-    "static/media/secure.mp4": "/static/media/secure.b01ad155e171172863b7.mp4",
-    "static/media/secure_en.mp4": "/static/media/secure_en.56e0d3f7f24223104f09.mp4",
     "static/media/Installation.mp4": "/static/media/Installation.a721af07e641b68e1651.mp4",
-    "static/media/normal_en.mp4": "/static/media/normal_en.8db99c728300c1e228f6.mp4",
-    "static/media/normal.mp4": "/static/media/normal.ecdec506287fd1a0ca24.mp4",
-    "static/media/no_dll_cod.mp4": "/static/media/no_dll_cod.a0a4419693213a750e64.mp4",
-    "static/media/no_dll_cod_en.mp4": "/static/media/no_dll_cod_en.8bdb95973d49306e16c1.mp4",
-    "static/media/no_dll.mp4": "/static/media/no_dll.601223d07df3f3702451.mp4",
-    "static/media/no_dll_en.mp4": "/static/media/no_dll_en.e5687570853ea1fc5950.mp4",
     "static/media/art_06_full.jpg": "/static/media/art_06_full.0e357c61ac4275fac64f.jpg",
     "static/media/header_video.mp4": "/static/media/header_video.372cbb5c10c1893119d0.mp4",
     "static/media/of_01.png": "/static/media/of_01.2a89f6dc88431c4701ea.png",
@@ -35,8 +27,6 @@
     "static/media/pr_03.gif": "/static/media/pr_03.0901cdb66716296e8f88.gif",
     "static/media/futuros_01.jpg": "/static/media/futuros_01.18a9086777b1fcad5ac0.jpg",
     "static/media/ninja_03.jpg": "/static/media/ninja_03.32645b8c4070b9511a94.jpg",
-    "static/media/uninstall_en.mp4": "/static/media/uninstall_en.8a994b06c4e66f12dcbf.mp4",
-    "static/media/uninstall.mp4": "/static/media/uninstall.17007a5b30e4da7e51b8.mp4",
     "static/media/futuros_02.jpg": "/static/media/futuros_02.9997581f88d4bc8bb9cb.jpg",
     "static/media/ninja_01.jpg": "/static/media/ninja_01.49421c1d66676245424c.jpg",
     "static/media/ninja_04.jpg": "/static/media/ninja_04.aec8e113e5f45d0d2aad.jpg",
@@ -80,12 +70,12 @@
     "static/media/logo_foot.png": "/static/media/logo_foot.79d5670897400aaf6904.png",
     "static/media/logo_nav.png": "/static/media/logo_nav.f1920d483aff83f85536.png",
     "index.html": "/index.html",
-    "main.bffd0476.css.map": "/static/css/main.bffd0476.css.map",
-    "main.76d73200.js.map": "/static/js/main.76d73200.js.map",
+    "main.56edbec2.css.map": "/static/css/main.56edbec2.css.map",
+    "main.c45141ef.js.map": "/static/js/main.c45141ef.js.map",
     "787.0c6b9861.chunk.js.map": "/static/js/787.0c6b9861.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bffd0476.css",
-    "static/js/main.76d73200.js"
+    "static/css/main.56edbec2.css",
+    "static/js/main.c45141ef.js"
   ]
 }
